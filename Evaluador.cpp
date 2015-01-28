@@ -33,6 +33,14 @@ void evaluar()
     lists2.push_back("Hola");
     lists2.push_back("Mundo");
 
+    list<string>lists3;
+    lists3.push_back("123");
+    lists3.push_back("12");
+    lists3.push_back("12345");
+    lists3.push_back("1");
+    lists3.push_back("12");
+    lists3.push_back("12");
+
     queue<string>queues1;
     queues1.push("A");
     queues1.push("B");
@@ -106,8 +114,8 @@ void evaluar()
         cout<<"Incorrecto"<<endl;
     }
 
-    cout<<"Ejercicio getSuma:\t";
-    if(getSuma(listi)==6 && getSuma(listi2)==16)
+    cout<<"Ejercicio sumarLetras:\t";
+    if(sumarLetras(lists1)==3 && sumarLetras(lists2)==9 && sumarLetras(lists3)==15)
     {
         nota++;
         cout<<"Correcto"<<endl;

@@ -45,3 +45,17 @@
 	<queue>
 	<list>
 
+1422483629 source:/home/turupawn/Projects/Clases/Estructura/Tarea2/Evaluador.cpp
+	"Evaluador.h"
+
+1422481718 /home/turupawn/Projects/Clases/Estructura/Tarea2/Evaluador.h
+	<iostream>
+	<queue>
+	<list>
+
+1422483653 source:/home/turupawn/Projects/Clases/Estructura/Tarea2/main.cpp
+	"Evaluador.h"
+	<iostream>
+	<queue>
+	<list>
+

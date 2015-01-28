@@ -36,10 +36,10 @@ int getSuma(queue<int> mi_cola)
     return -1;
 }
 
-//devuelve la suma de los elementos de la lista
-int getSuma(list<int> mi_lista)
+//devuelve la suma de la cantidad letras de cada cadena de la lista
+int sumarLetras(list<string> mi_lista)
 {
-   return -1;
+    return -1;
 }
 
 //Devuelve true si los elementos de la lista son estan ordenados alfabeticamente, de lo contrario devuelve false
